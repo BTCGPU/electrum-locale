@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: electrum\n"
+"Project-Id-Version: electrumg"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 13:29+0000\n"
 "PO-Revision-Date: 2018-02-17 10:40-0500\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: electrum\n"
+"X-Crowdin-Project: electrumg"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /electrum-client/messages.pot\n"
+"X-Crowdin-File: /electrumg-client/messages.pot\n"
 
 #: gui/qt/main_window.py:2516
 msgid " These settings affects the fields in the Send tab"
@@ -250,8 +250,8 @@ msgid "BIP39 seed"
 msgstr "Semente BIP39"
 
 #: gui/qt/seed_dialog.py:71
-msgid "BIP39 seeds can be imported in Electrum so that users can access funds locked in other wallets."
-msgstr "Sementes BIP39 podem ser importadas no Electrum para que os utilizadores possam acessar fundos guardados em outras carteiras."
+msgid "BIP39 seeds can be imported in ElectrumG so that users can access funds locked in other wallets."
+msgstr "Sementes BIP39 podem ser importadas no ElectrumG para que os utilizadores possam acessar fundos guardados em outras carteiras."
 
 #: gui/qt/installwizard.py:78 gui/qt/installwizard.py:111
 #: gui/qt/installwizard.py:112
@@ -272,20 +272,20 @@ msgid "Base unit of your wallet."
 msgstr "Unidade base da sua carteira."
 
 #: gui/qt/main_window.py:539
-msgid "Before reporting a bug, upgrade to the most recent version of Electrum (latest release or git HEAD), and include the version number in your report."
-msgstr "Antes de relatar um erro, atualize para a versão mais recente do Electrum (versão mais recente ou git HEAD) e inclua o número da versão em seu relatório."
+msgid "Before reporting a bug, upgrade to the most recent version of ElectrumG (latest release or git HEAD), and include the version number in your report."
+msgstr "Antes de relatar um erro, atualize para a versão mais recente do ElectrumG (versão mais recente ou git HEAD) e inclua o número da versão em seu relatório."
 
 #: gui/qt/main_window.py:1303
-msgid "Bitcoin Address is None"
-msgstr "Não há nenhum endereço de Bitcoin"
+msgid "BitcoinGold Address is None"
+msgstr "Não há nenhum endereço de BitcoinGold"
 
 #: gui/qt/main_window.py:749
-msgid "Bitcoin address where the payment should be received. Note that each payment request uses a different Bitcoin address."
-msgstr "Endereço Bitcoin onde o pagamento deve ser recebido. Observe que cada solicitação de pagamento usa um endereço Bitcoin diferente."
+msgid "BitcoinGold address where the payment should be received. Note that each payment request uses a different BitcoinGold address."
+msgstr "Endereço BitcoinGold onde o pagamento deve ser recebido. Observe que cada solicitação de pagamento usa um endereço BitcoinGold diferente."
 
 #: gui/qt/main_window.py:1045
-msgid "Bitcoin transactions are in general not free. A transaction fee is paid by the sender of the funds."
-msgstr "Transações em bitcoin em geral não são gratuitas. Uma taxa de transação é paga por quem enviar os fundos."
+msgid "BitcoinGold transactions are in general not free. A transaction fee is paid by the sender of the funds."
+msgstr "Transações em BitcoinGold em geral não são gratuitas. Uma taxa de transação é paga por quem enviar os fundos."
 
 #: gui/qt/network_dialog.py:288
 msgid "Blockchain"
@@ -549,68 +549,68 @@ msgid "Edit fees manually"
 msgstr "Edite taxas manualmente"
 
 #: gui/kivy/main_window.py:244
-msgid "Electrum App"
-msgstr "Aplicação Electrum"
+msgid "ElectrumG App"
+msgstr "Aplicação ElectrumG"
 
 #: gui/qt/main_window.py:2763
-msgid "Electrum Plugins"
-msgstr "Plugins do Electrum"
+msgid "ElectrumG Plugins"
+msgstr "Plugins do ElectrumG"
 
 #: gui/qt/installwizard.py:485
-msgid "Electrum communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let Electrum pick one at random.  However if you prefer feel free to select a server manually."
-msgstr "O Electrum se comunica com servidores remotos para obter informações sobre suas transações e endereços. Todos os servidores cumprem o mesmo propósito que diferem em hardware. Na maioria dos casos, você simplesmente quer deixar o Electum escolher um ao acaso. No entanto, se preferir, sinta-se à vontade para selecionar um servidor manualmente."
+msgid "ElectrumG communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let ElectrumG pick one at random.  However if you prefer feel free to select a server manually."
+msgstr "O ElectrumG se comunica com servidores remotos para obter informações sobre suas transações e endereços. Todos os servidores cumprem o mesmo propósito que diferem em hardware. Na maioria dos casos, você simplesmente quer deixar o Electum escolher um ao acaso. No entanto, se preferir, sinta-se à vontade para selecionar um servidor manualmente."
 
 #: gui/qt/network_dialog.py:272
-msgid "Electrum connects to several nodes in order to download block headers and find out the longest blockchain."
-msgstr "O Electrum se conecta a vários nós para baixar os cabeçalhos dos blocos e descobrir a maior cadeia de blocos."
+msgid "ElectrumG connects to several nodes in order to download block headers and find out the longest blockchain."
+msgstr "O ElectrumG se conecta a vários nós para baixar os cabeçalhos dos blocos e descobrir a maior cadeia de blocos."
 
 #: gui/qt/installwizard.py:23
-msgid "Electrum is generating your addresses, please wait..."
-msgstr "O Electrum está gerando seus endereços, aguarde..."
+msgid "ElectrumG is generating your addresses, please wait..."
+msgstr "O ElectrumG está gerando seus endereços, aguarde..."
 
 #: gui/qt/main_window.py:492
-msgid "Electrum preferences"
-msgstr "Preferências do Electrum"
+msgid "ElectrumG preferences"
+msgstr "Preferências do ElectrumG"
 
 #: gui/qt/network_dialog.py:281
-msgid "Electrum sends your wallet addresses to a single server, in order to receive your transaction history."
-msgstr "O Electrum envia os endereços da sua carteira para um único servidor, de forma a receber o seu histórico de transação."
+msgid "ElectrumG sends your wallet addresses to a single server, in order to receive your transaction history."
+msgstr "O ElectrumG envia os endereços da sua carteira para um único servidor, de forma a receber o seu histórico de transação."
 
 #: gui/qt/installwizard.py:168
-msgid "Electrum wallet"
-msgstr "Carteira Electrum"
+msgid "ElectrumG wallet"
+msgstr "Carteira ElectrumG"
 
 #: gui/qt/main_window.py:401
-msgid "Electrum was unable to copy your wallet file to the specified location."
-msgstr "Electrum não foi capaz de copiar o arquivo de sua carteira para o local especificado."
+msgid "ElectrumG was unable to copy your wallet file to the specified location."
+msgstr "ElectrumG não foi capaz de copiar o arquivo de sua carteira para o local especificado."
 
 #: gui/qt/main_window.py:2206
-msgid "Electrum was unable to export your labels."
-msgstr "Electrum não foi capaz de exportar seus rótulos."
+msgid "ElectrumG was unable to export your labels."
+msgstr "ElectrumG não foi capaz de exportar seus rótulos."
 
 #: gui/qt/main_window.py:2193
-msgid "Electrum was unable to import your labels."
-msgstr "Electrum não foi capaz de importar seus rótulos."
+msgid "ElectrumG was unable to import your labels."
+msgstr "ElectrumG não foi capaz de importar seus rótulos."
 
 #: gui/qt/main_window.py:2067
-msgid "Electrum was unable to open your transaction file"
-msgstr "Electrum não foi capaz de abrir seu arquivo de transação"
+msgid "ElectrumG was unable to open your transaction file"
+msgstr "ElectrumG não foi capaz de abrir seu arquivo de transação"
 
 #: gui/qt/main_window.py:2032
-msgid "Electrum was unable to parse your transaction"
-msgstr "Electrum não foi capaz de processar sua transação"
+msgid "ElectrumG was unable to parse your transaction"
+msgstr "ElectrumG não foi capaz de processar sua transação"
 
 #: gui/qt/main_window.py:2158
-msgid "Electrum was unable to produce a private key-export."
-msgstr "O Electrum não conseguiu produzir uma exportação da chave privada."
+msgid "ElectrumG was unable to produce a private key-export."
+msgstr "O ElectrumG não conseguiu produzir uma exportação da chave privada."
 
 #: gui/qt/main_window.py:2230
-msgid "Electrum was unable to produce a transaction export."
-msgstr "O Electrum não conseguiu produzir uma exportação da transação."
+msgid "ElectrumG was unable to produce a transaction export."
+msgstr "O ElectrumG não conseguiu produzir uma exportação da transação."
 
 #: gui/qt/main_window.py:532
-msgid "Electrum's focus is speed, with low resource usage and simplifying Bitcoin. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin system.\n\n"
-msgstr "O foco do Electrum é a velocidade, com baixo uso de recursos e simplificando o Bitcoin. Você não precisa fazer backups regulares, porque sua carteira pode ser recuperada de uma frase secreta que você pode memorizar ou escrever em papel. Os tempos de inicialização são instantâneos porque ele opera em conjunto com servidores de alto desempenho que lidam com as partes mais complicadas do sistema Bitcoin.\n\n"
+msgid "ElectrumG's focus is speed, with low resource usage and simplifying BitcoinGold. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the BitcoinGold system.\n\n"
+msgstr "O foco do ElectrumG é a velocidade, com baixo uso de recursos e simplificando o BitcoinGold. Você não precisa fazer backups regulares, porque sua carteira pode ser recuperada de uma frase secreta que você pode memorizar ou escrever em papel. Os tempos de inicialização são instantâneos porque ele opera em conjunto com servidores de alto desempenho que lidam com as partes mais complicadas do sistema BitcoinGold.\n\n"
 
 #: gui/qt/main_window.py:2003
 msgid "Encrypt"
@@ -702,8 +702,8 @@ msgid "Error"
 msgstr "Erro"
 
 #: gui/qt/__init__.py:111
-msgid "Exit Electrum"
-msgstr "Sair do Electrum"
+msgid "Exit ElectrumG"
+msgstr "Sair do ElectrumG"
 
 #: gui/qt/transaction_dialog.py:199
 msgid "Expected confirmation time"
@@ -718,8 +718,8 @@ msgid "Expired"
 msgstr "Expirada"
 
 #: gui/qt/main_window.py:779
-msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding Bitcoin addresses."
-msgstr "Os pedidos expirados devem ser excluídos manualmente da sua lista, para liberar os endereços Bitcoin correspondentes."
+msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding BitcoinGold addresses."
+msgstr "Os pedidos expirados devem ser excluídos manualmente da sua lista, para liberar os endereços BitcoinGold correspondentes."
 
 #: gui/qt/main_window.py:1666 gui/qt/invoice_list.py:36
 msgid "Expires"
@@ -835,12 +835,12 @@ msgid "Identity"
 msgstr "Identidade"
 
 #: gui/qt/network_dialog.py:296
-msgid "If auto-connect is enabled, Electrum will always use a server that is on the longest blockchain."
-msgstr "Se a opção auto-conectar estiver habilitada, Electrum sempre usará o servidor com a maior cadeia de blocos disponível."
+msgid "If auto-connect is enabled, ElectrumG will always use a server that is on the longest blockchain."
+msgstr "Se a opção auto-conectar estiver habilitada, ElectrumG sempre usará o servidor com a maior cadeia de blocos disponível."
 
 #: gui/qt/network_dialog.py:297
-msgid "If it is disabled, you have to choose a server you want to use. Electrum will warn you if your server is lagging."
-msgstr "Se estiver desativado, você deve escolher um servidor que deseja usar. O Electrum avisará se seu servidor está atrasado."
+msgid "If it is disabled, you have to choose a server you want to use. ElectrumG will warn you if your server is lagging."
+msgstr "Se estiver desativado, você deve escolher um servidor que deseja usar. O ElectrumG avisará se seu servidor está atrasado."
 
 #: gui/qt/main_window.py:2456
 msgid "If the fee is low"
@@ -880,8 +880,8 @@ msgid "Import private keys"
 msgstr "Importar chaves privadas"
 
 #: gui/qt/seed_dialog.py:75
-msgid "In addition, Electrum does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
-msgstr "Além disso, o Electrum não verifica a soma de verificação das sementes BIP39; Certifique-se de digitar sua semente corretamente."
+msgid "In addition, ElectrumG does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
+msgstr "Além disso, o ElectrumG não verifica a soma de verificação das sementes BIP39; Certifique-se de digitar sua semente corretamente."
 
 #: gui/qt/main_window.py:2109
 msgid "In particular, DO NOT use 'redeem private key' services proposed by third parties."
@@ -932,8 +932,8 @@ msgid "Invalid Amount"
 msgstr "Quantidade Inválida"
 
 #: gui/qt/main_window.py:1306
-msgid "Invalid Bitcoin Address"
-msgstr "Endereço Bitcoin Inválido"
+msgid "Invalid BitcoinGold Address"
+msgstr "Endereço BitcoinGold Inválido"
 
 #: gui/qt/main_window.py:1286
 msgid "Invalid Lines found:"
@@ -944,8 +944,8 @@ msgid "Invalid PIN"
 msgstr "PIN inválido"
 
 #: gui/qt/main_window.py:1513
-msgid "Invalid bitcoin URI:"
-msgstr "URI Bitcoin inválida:"
+msgid "Invalid BitcoinGold URI:"
+msgstr "URI BitcoinGold inválida:"
 
 #: gui/qt/main_window.py:1652
 msgid "Invoice"
@@ -988,8 +988,8 @@ msgid "Lookup transaction"
 msgstr "Buscando transações"
 
 #: gui/qt/main_window.py:376
-msgid "Make sure you own the seed phrase or the private keys, before you request Bitcoins to be sent to this wallet."
-msgstr "Certifique-se de possuir a frase de sementes ou as chaves privadas, antes de solicitar que Bitcoins seja enviado para esta carteira."
+msgid "Make sure you own the seed phrase or the private keys, before you request BitcoinGold to be sent to this wallet."
+msgstr "Certifique-se de possuir a frase de sementes ou as chaves privadas, antes de solicitar que BitcoinGold seja enviado para esta carteira."
 
 #: gui/qt/installwizard.py:481 gui/kivy/uix/dialogs/installwizard.py:689
 #: gui/kivy/uix/dialogs/installwizard.py:693
@@ -1257,8 +1257,8 @@ msgid "Please enter a seed phrase or a master key (xpub or xprv):"
 msgstr "Digite uma frase de semente ou uma chave mestra (xpub ou xprv):"
 
 #: gui/qt/installwizard.py:24
-msgid "Please enter a seed phrase, a master key, a list of Bitcoin addresses, or a list of private keys"
-msgstr "Digite uma frase de sementes, uma chave mestre, uma lista de endereços Bitcoin ou uma lista de chaves privadas"
+msgid "Please enter a seed phrase, a master key, a list of BitcoinGold addresses, or a list of private keys"
+msgstr "Digite uma frase de sementes, uma chave mestre, uma lista de endereços BitcoinGold ou uma lista de chaves privadas"
 
 #: gui/qt/installwizard.py:348
 msgid "Please enter the master public key (xpub) of your cosigner."
@@ -1294,8 +1294,8 @@ msgid "Please report any bugs as issues on github:<br/>"
 msgstr "Informe quaisquer erros como problemas no github: <br/>"
 
 #: gui/qt/main_window.py:2736
-msgid "Please restart Electrum to activate the new GUI settings"
-msgstr "Por favor reinicie o Electrum para ativar as novas definições de GUI"
+msgid "Please restart ElectrumG to activate the new GUI settings"
+msgstr "Por favor reinicie o ElectrumG para ativar as novas definições de GUI"
 
 #: gui/kivy/uix/dialogs/installwizard.py:778
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
@@ -1667,8 +1667,8 @@ msgid "The amount will be displayed in red if you do not have enough funds in yo
 msgstr "O valor será exibido em vermelho, se você não tiver fundos suficientes na sua carteira."
 
 #: gui/qt/main_window.py:780
-msgid "The bitcoin address never expires and will always be part of this electrum wallet."
-msgstr "O endereço bitcoin nunca expira e sempre será parte desta carteira electrum."
+msgid "The BitcoinGold address never expires and will always be part of this ElectrumG wallet."
+msgstr "O endereço BitcoinGold nunca expira e sempre será parte desta carteira ElectrumG "
 
 #: gui/qt/main_window.py:1009
 msgid "The description is not sent to the recipient of the funds. It is stored in your wallet file, and displayed in the 'History' tab."
@@ -1703,14 +1703,14 @@ msgstr "Não foi possível importar as seguintes entradas"
 
 #: gui/qt/installwizard.py:248
 #, python-format
-msgid "The format of your wallet '%s' must be upgraded for Electrum. This change will not be backward compatible"
-msgstr "O formato de sua carteira '%s' deve ser atualizado para o Electrum. Esta alteração não será compatível com versões anteriores"
+msgid "The format of your wallet '%s' must be upgraded for ElectrumG. This change will not be backward compatible"
+msgstr "O formato de sua carteira '%s' deve ser atualizado para o ElectrumG. Esta alteração não será compatível com versões anteriores"
 
 #: gui/qt/installwizard.py:235
 #, python-format
-msgid "The wallet '%s' contains multiple accounts, which are no longer supported in Electrum 2.7.\n\n"
+msgid "The wallet '%s' contains multiple accounts, which are no longer supported in ElectrumG 2.7.\n\n"
 "Do you want to split your wallet into multiple files?"
-msgstr "A carteira '%s' contém várias contas, que não são mais suportadas no Electrum 2.7.\n\n"
+msgstr "A carteira '%s' contém várias contas, que não são mais suportadas no ElectrumG 2.7.\n\n"
 " Você deseja dividir sua carteira em vários arquivos?"
 
 #: gui/qt/network_dialog.py:273
@@ -1742,8 +1742,8 @@ msgid "This may result in higher transactions fees."
 msgstr "Isso pode resultar em maiores taxas de transações."
 
 #: gui/qt/main_window.py:375
-msgid "This means you will not be able to spend Bitcoins with it."
-msgstr "Isso significa que você não poderá gastar Bitcoins com ele."
+msgid "This means you will not be able to spend BitcoinGold with it."
+msgstr "Isso significa que você não poderá gastar BitcoinGold com ele."
 
 #: gui/qt/main_window.py:861
 msgid "This payment request will be signed."
@@ -1950,8 +1950,8 @@ msgid "Warning: The next address will not be recovered automatically if you rest
 msgstr "Cuidado: O próximo endereço não poderá ser recurado automaticamente, caso você restaurar sua carteira a partir dos seeds; talvez seja necessário adiciona-los manualmente. Isto pode ocorrer devi a você ter muitos endereços não utilizados em sua carteira.Para evitar essa situação,use os endereços existentes em primeiro lugar. Criar mesmo assim?"
 
 #: gui/qt/seed_dialog.py:74
-msgid "We do not guarantee that BIP39 imports will always be supported in Electrum."
-msgstr "Não garantimos que as importações BIP39 sejam sempre suportadas no Electrum."
+msgid "We do not guarantee that BIP39 imports will always be supported in ElectrumG."
+msgstr "Não garantimos que as importações BIP39 sejam sempre suportadas no ElectrumG."
 
 #: gui/qt/main_window.py:1921
 msgid "Wrong signature"
@@ -1962,16 +1962,16 @@ msgid "You are following branch"
 msgstr "Você está seguindo o ramo"
 
 #: gui/qt/__init__.py:145
-msgid "You are using Electrum in offline mode; restart Electrum if you want to get connected"
-msgstr "Você está usando o Electrum no modo off-line; Reinicie o Electrum se quiser se conectar"
+msgid "You are using ElectrumG in offline mode; restart ElectrumG if you want to get connected"
+msgstr "Você está usando o ElectrumG no modo off-line; Reinicie o ElectrumG se quiser se conectar"
 
 #: gui/qt/main_window.py:921
 msgid "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr "Você está usando uma carteira não determinista, que não pode criar novos endereços."
 
 #: gui/qt/main_window.py:998
-msgid "You may enter a Bitcoin address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a Bitcoin address)"
-msgstr "Você pode entrar um endereço Bitcoin, um rótulo da sua lista de contatos (uma lista de complementos será sugerida), ou um pseudônimo (endereço parecido com um email que vai para o endereço Bitcoin)"
+msgid "You may enter a BitcoinGold address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a BitcoinGold address)"
+msgstr "Você pode entrar um endereço BitcoinGold, um rótulo da sua lista de contatos (uma lista de complementos será sugerida), ou um pseudônimo (endereço parecido com um email que vai para o endereço BitcoinGold)"
 
 #: gui/qt/main_window.py:1608
 msgid "You may load a CSV file using the file icon."
@@ -1982,8 +1982,8 @@ msgid "Your accounts have been moved to"
 msgstr "Suas contas foram movidas para"
 
 #: gui/qt/password_dialog.py:175
-msgid "Your bitcoins are password protected. However, your wallet file is not encrypted."
-msgstr "Seus bitcoins estão protegidos por senha. No entanto, seu arquivo de carteira não está criptografado."
+msgid "Your BitcoinGold is password protected. However, your wallet file is not encrypted."
+msgstr "Seus BitcoinGold estão protegidos por senha. No entanto, seu arquivo de carteira não está criptografado."
 
 #: plugins/labels/qt.py:53
 msgid "Your labels have been synchronised."

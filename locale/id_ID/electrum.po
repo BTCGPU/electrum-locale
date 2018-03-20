@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: electrum\n"
+"Project-Id-Version: electrumg"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 13:29+0000\n"
 "PO-Revision-Date: 2017-12-06 12:31-0500\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: electrum\n"
+"X-Crowdin-Project: electrumg"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /electrum-client/messages.pot\n"
+"X-Crowdin-File: /electrumg-client/messages.pot\n"
 
 #: gui/qt/main_window.py:2516
 msgid " These settings affects the fields in the Send tab"
@@ -250,8 +250,8 @@ msgid "BIP39 seed"
 msgstr "Benih BIP39"
 
 #: gui/qt/seed_dialog.py:71
-msgid "BIP39 seeds can be imported in Electrum so that users can access funds locked in other wallets."
-msgstr "BIP39 dapat di kirim di Electrum sehingga pengguna dapat mengakses saldo yang terkunci di dompet yang lain."
+msgid "BIP39 seeds can be imported in ElectrumG so that users can access funds locked in other wallets."
+msgstr "BIP39 dapat di kirim di ElectrumG sehingga pengguna dapat mengakses saldo yang terkunci di dompet yang lain."
 
 #: gui/qt/installwizard.py:78 gui/qt/installwizard.py:111
 #: gui/qt/installwizard.py:112
@@ -272,20 +272,20 @@ msgid "Base unit of your wallet."
 msgstr "Satuan dasar dompet Anda."
 
 #: gui/qt/main_window.py:539
-msgid "Before reporting a bug, upgrade to the most recent version of Electrum (latest release or git HEAD), and include the version number in your report."
-msgstr "Sebelum melaporkan sebuah kutu, harap tingkatkan Electrum ke versi yang terbaru (rilis terbaru atau git HEAD), dan masukan nomor versi dalam laporan Anda."
+msgid "Before reporting a bug, upgrade to the most recent version of ElectrumG (latest release or git HEAD), and include the version number in your report."
+msgstr "Sebelum melaporkan sebuah kutu, harap tingkatkan ElectrumG ke versi yang terbaru (rilis terbaru atau git HEAD), dan masukan nomor versi dalam laporan Anda."
 
 #: gui/qt/main_window.py:1303
-msgid "Bitcoin Address is None"
-msgstr "Alamat Bitcoin kosong"
+msgid "BitcoinGold Address is None"
+msgstr "Alamat BitcoinGold kosong"
 
 #: gui/qt/main_window.py:749
-msgid "Bitcoin address where the payment should be received. Note that each payment request uses a different Bitcoin address."
-msgstr "Alamat Bitcoin adalah dimana pembayaran akan diterima. Harap diperhatikan bahwa setiap pembayaran menggunakan alamat Bitcoin yang berbeda."
+msgid "BitcoinGold address where the payment should be received. Note that each payment request uses a different BitcoinGold address."
+msgstr "Alamat BitcoinGold adalah dimana pembayaran akan diterima. Harap diperhatikan bahwa setiap pembayaran menggunakan alamat BitcoinGold yang berbeda."
 
 #: gui/qt/main_window.py:1045
-msgid "Bitcoin transactions are in general not free. A transaction fee is paid by the sender of the funds."
-msgstr "Transaksi Bitcoin secara umum tidaklah gratis. Biaya transaksi dibayarkan oleh pengirim."
+msgid "BitcoinGold transactions are in general not free. A transaction fee is paid by the sender of the funds."
+msgstr "Transaksi BitcoinGold secara umum tidaklah gratis. Biaya transaksi dibayarkan oleh pengirim."
 
 #: gui/qt/network_dialog.py:288
 msgid "Blockchain"
@@ -549,68 +549,68 @@ msgid "Edit fees manually"
 msgstr "Ubah upah secara manual"
 
 #: gui/kivy/main_window.py:244
-msgid "Electrum App"
-msgstr "Aplikasi Electrum"
+msgid "ElectrumG App"
+msgstr "Aplikasi ElectrumG"
 
 #: gui/qt/main_window.py:2763
-msgid "Electrum Plugins"
-msgstr "Plugin Electrum"
+msgid "ElectrumG Plugins"
+msgstr "Plugin ElectrumG"
 
 #: gui/qt/installwizard.py:485
-msgid "Electrum communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let Electrum pick one at random.  However if you prefer feel free to select a server manually."
-msgstr "Electrum terhubung dengan remote server untuk mendapatkan informasi tentang transaksi anda dan alamat anda. Seluruh server akan melakukan tugas yang sama hanya tergantung pada perangkat kerasnya. Pada penggunaan umumnya, anda cukup membiarkan Electrum memilihnya secara acak. Akan tetapi jika anda punya pilihan sendiri anda dapat memilih server secara manual."
+msgid "ElectrumG communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let ElectrumG pick one at random.  However if you prefer feel free to select a server manually."
+msgstr "ElectrumG terhubung dengan remote server untuk mendapatkan informasi tentang transaksi anda dan alamat anda. Seluruh server akan melakukan tugas yang sama hanya tergantung pada perangkat kerasnya. Pada penggunaan umumnya, anda cukup membiarkan ElectrumG memilihnya secara acak. Akan tetapi jika anda punya pilihan sendiri anda dapat memilih server secara manual."
 
 #: gui/qt/network_dialog.py:272
-msgid "Electrum connects to several nodes in order to download block headers and find out the longest blockchain."
-msgstr "Electrum menghubungkan ke beberapa node untuk men-download blok header dan mencari blockchain terpanjang."
+msgid "ElectrumG connects to several nodes in order to download block headers and find out the longest blockchain."
+msgstr "ElectrumG menghubungkan ke beberapa node untuk men-download blok header dan mencari blockchain terpanjang."
 
 #: gui/qt/installwizard.py:23
-msgid "Electrum is generating your addresses, please wait..."
-msgstr "Electrum sedang membuat alamat anda, silahkan tunggu..."
+msgid "ElectrumG is generating your addresses, please wait..."
+msgstr "ElectrumG sedang membuat alamat anda, silahkan tunggu..."
 
 #: gui/qt/main_window.py:492
-msgid "Electrum preferences"
-msgstr "Pengaturan Electrum"
+msgid "ElectrumG preferences"
+msgstr "Pengaturan ElectrumG"
 
 #: gui/qt/network_dialog.py:281
-msgid "Electrum sends your wallet addresses to a single server, in order to receive your transaction history."
-msgstr "Electrum mengirimkan alamat Anda ke sebuah server untuk mendapatkan riwayat transaksi Anda."
+msgid "ElectrumG sends your wallet addresses to a single server, in order to receive your transaction history."
+msgstr "ElectrumG mengirimkan alamat Anda ke sebuah server untuk mendapatkan riwayat transaksi Anda."
 
 #: gui/qt/installwizard.py:168
-msgid "Electrum wallet"
+msgid "ElectrumG wallet"
 msgstr "Dompet Electum"
 
 #: gui/qt/main_window.py:401
-msgid "Electrum was unable to copy your wallet file to the specified location."
-msgstr "Electrum tidak dapat menyalin berkas wallet Anda ke lokasi tersebut."
+msgid "ElectrumG was unable to copy your wallet file to the specified location."
+msgstr "ElectrumG tidak dapat menyalin berkas wallet Anda ke lokasi tersebut."
 
 #: gui/qt/main_window.py:2206
-msgid "Electrum was unable to export your labels."
-msgstr "Electrum tidak dapat mengekspor label Anda."
+msgid "ElectrumG was unable to export your labels."
+msgstr "ElectrumG tidak dapat mengekspor label Anda."
 
 #: gui/qt/main_window.py:2193
-msgid "Electrum was unable to import your labels."
-msgstr "Electrum tidak dapat mengimpor label Anda."
+msgid "ElectrumG was unable to import your labels."
+msgstr "ElectrumG tidak dapat mengimpor label Anda."
 
 #: gui/qt/main_window.py:2067
-msgid "Electrum was unable to open your transaction file"
-msgstr "Electrum tidak dapat membuka berkas transaksi Anda"
+msgid "ElectrumG was unable to open your transaction file"
+msgstr "ElectrumG tidak dapat membuka berkas transaksi Anda"
 
 #: gui/qt/main_window.py:2032
-msgid "Electrum was unable to parse your transaction"
-msgstr "Electrum tidak dapat membaca transaksi Anda"
+msgid "ElectrumG was unable to parse your transaction"
+msgstr "ElectrumG tidak dapat membaca transaksi Anda"
 
 #: gui/qt/main_window.py:2158
-msgid "Electrum was unable to produce a private key-export."
-msgstr "Electrum tidak dapat menghasilkan ekspor kunci privat."
+msgid "ElectrumG was unable to produce a private key-export."
+msgstr "ElectrumG tidak dapat menghasilkan ekspor kunci privat."
 
 #: gui/qt/main_window.py:2230
-msgid "Electrum was unable to produce a transaction export."
-msgstr "Electrum tidak dapat menghasilkan ekspor transaksi."
+msgid "ElectrumG was unable to produce a transaction export."
+msgstr "ElectrumG tidak dapat menghasilkan ekspor transaksi."
 
 #: gui/qt/main_window.py:532
-msgid "Electrum's focus is speed, with low resource usage and simplifying Bitcoin. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin system.\n\n"
-msgstr "Electrum berfokus pada kecepatan, dengan penggunaan sumber daya yang rendah dan menyederhanakan Bitcoin. Anda tidak perlu melakukan backup secara berkala, karena dompet anda dapat dipulihkan dari kata-kata rahasia yang dapat anda ingat atau ditulis di sebuah kertas. Waktu untuk memulai Electrum sangat cepat karena pengoperasiannya dibantu oleh server berperforma tinggi yang menangani bagian-bagian yang kompleks pada sistim Bitcoin."
+msgid "ElectrumG's focus is speed, with low resource usage and simplifying BitcoinGold. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the BitcoinGold system.\n\n"
+msgstr "ElectrumG berfokus pada kecepatan, dengan penggunaan sumber daya yang rendah dan menyederhanakan BitcoinGold. Anda tidak perlu melakukan backup secara berkala, karena dompet anda dapat dipulihkan dari kata-kata rahasia yang dapat anda ingat atau ditulis di sebuah kertas. Waktu untuk memulai ElectrumG sangat cepat karena pengoperasiannya dibantu oleh server berperforma tinggi yang menangani bagian-bagian yang kompleks pada sistim BitcoinGold."
 
 #: gui/qt/main_window.py:2003
 msgid "Encrypt"
@@ -702,8 +702,8 @@ msgid "Error"
 msgstr "Kesalahan"
 
 #: gui/qt/__init__.py:111
-msgid "Exit Electrum"
-msgstr "Keluar dari Electrum"
+msgid "Exit ElectrumG"
+msgstr "Keluar dari ElectrumG"
 
 #: gui/qt/transaction_dialog.py:199
 msgid "Expected confirmation time"
@@ -718,8 +718,8 @@ msgid "Expired"
 msgstr "Sudah kedaluwarsa"
 
 #: gui/qt/main_window.py:779
-msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding Bitcoin addresses."
-msgstr "Permintaan yang sudah kadaluarsa harus dihapus secara manual dari daftar, agar teratur & menjadi ringkas sesuai dengan alamat Bitcoin."
+msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding BitcoinGold addresses."
+msgstr "Permintaan yang sudah kadaluarsa harus dihapus secara manual dari daftar, agar teratur & menjadi ringkas sesuai dengan alamat BitcoinGold."
 
 #: gui/qt/main_window.py:1666 gui/qt/invoice_list.py:36
 msgid "Expires"
@@ -835,12 +835,12 @@ msgid "Identity"
 msgstr "Identitas"
 
 #: gui/qt/network_dialog.py:296
-msgid "If auto-connect is enabled, Electrum will always use a server that is on the longest blockchain."
-msgstr "Jika pilihan terhubung-otomatis diaktifkan, Electrum akan selalu menggunakan server di blockchain terpanjang."
+msgid "If auto-connect is enabled, ElectrumG will always use a server that is on the longest blockchain."
+msgstr "Jika pilihan terhubung-otomatis diaktifkan, ElectrumG akan selalu menggunakan server di blockchain terpanjang."
 
 #: gui/qt/network_dialog.py:297
-msgid "If it is disabled, you have to choose a server you want to use. Electrum will warn you if your server is lagging."
-msgstr "Jika ini dinonaktifkan, Anda harus memilih server yang ingin Anda gunakan. Electrum akan memperingatkan Anda jika server Anda tersendat."
+msgid "If it is disabled, you have to choose a server you want to use. ElectrumG will warn you if your server is lagging."
+msgstr "Jika ini dinonaktifkan, Anda harus memilih server yang ingin Anda gunakan. ElectrumG akan memperingatkan Anda jika server Anda tersendat."
 
 #: gui/qt/main_window.py:2456
 msgid "If the fee is low"
@@ -880,8 +880,8 @@ msgid "Import private keys"
 msgstr "Impor kunci privat"
 
 #: gui/qt/seed_dialog.py:75
-msgid "In addition, Electrum does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
-msgstr "Sebagai tambahan, Electrum tidak memverifikasi cheksum kunci benih BIP39; pastikan anda mengetik kunci benih dengan benar."
+msgid "In addition, ElectrumG does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
+msgstr "Sebagai tambahan, ElectrumG tidak memverifikasi cheksum kunci benih BIP39; pastikan anda mengetik kunci benih dengan benar."
 
 #: gui/qt/main_window.py:2109
 msgid "In particular, DO NOT use 'redeem private key' services proposed by third parties."
@@ -932,8 +932,8 @@ msgid "Invalid Amount"
 msgstr "Jumlah Salah"
 
 #: gui/qt/main_window.py:1306
-msgid "Invalid Bitcoin Address"
-msgstr "Alamat Bitcoin Salah"
+msgid "Invalid BitcoinGold Address"
+msgstr "Alamat BitcoinGold Salah"
 
 #: gui/qt/main_window.py:1286
 msgid "Invalid Lines found:"
@@ -944,8 +944,8 @@ msgid "Invalid PIN"
 msgstr "PIN tidak valid"
 
 #: gui/qt/main_window.py:1513
-msgid "Invalid bitcoin URI:"
-msgstr "URI bitcoin tidak valid:"
+msgid "Invalid BitcoinGold URI:"
+msgstr "URI BitcoinGold tidak valid:"
 
 #: gui/qt/main_window.py:1652
 msgid "Invoice"
@@ -988,8 +988,8 @@ msgid "Lookup transaction"
 msgstr "Cari transaksi"
 
 #: gui/qt/main_window.py:376
-msgid "Make sure you own the seed phrase or the private keys, before you request Bitcoins to be sent to this wallet."
-msgstr "Pastikan anda memiliki frase biji atau kunci pribadi, sebelum Anda meminta Bitcoins untuk dikirim ke alamat ini."
+msgid "Make sure you own the seed phrase or the private keys, before you request BitcoinGold to be sent to this wallet."
+msgstr "Pastikan anda memiliki frase biji atau kunci pribadi, sebelum Anda meminta BitcoinGold untuk dikirim ke alamat ini."
 
 #: gui/qt/installwizard.py:481 gui/kivy/uix/dialogs/installwizard.py:689
 #: gui/kivy/uix/dialogs/installwizard.py:693
@@ -1126,7 +1126,7 @@ msgstr "Dana tidak mencukupi"
 
 #: gui/qt/main_window.py:1025
 msgid "Note that if you have frozen some of your addresses, the available funds will be lower than your total balance."
-msgstr "Harap diperhatikan jika Anda sudah membekukan beberapa alamat bitcoin Anda, jumlah saldo yang tersedia akan lebih sedikit dibandingkan saldo keseluruhan Anda."
+msgstr "Harap diperhatikan jika Anda sudah membekukan beberapa alamat BitcoinGold Anda, jumlah saldo yang tersedia akan lebih sedikit dibandingkan saldo keseluruhan Anda."
 
 #: gui/qt/main_window.py:1072
 msgid "Note that some merchants do not accept non-final transactions until they are confirmed."
@@ -1257,8 +1257,8 @@ msgid "Please enter a seed phrase or a master key (xpub or xprv):"
 msgstr "Tolong masukkan kata sandi seed atau master key (xpub or xprv):"
 
 #: gui/qt/installwizard.py:24
-msgid "Please enter a seed phrase, a master key, a list of Bitcoin addresses, or a list of private keys"
-msgstr "Silahkan masukan sebuah benih dompet wallet, sebuah kunci publik master, sebuah daftar alamat-alamat Bitcoin, atau sebuah daftar kunci-kunci privat"
+msgid "Please enter a seed phrase, a master key, a list of BitcoinGold addresses, or a list of private keys"
+msgstr "Silahkan masukan sebuah benih dompet wallet, sebuah kunci publik master, sebuah daftar alamat-alamat BitcoinGold, atau sebuah daftar kunci-kunci privat"
 
 #: gui/qt/installwizard.py:348
 msgid "Please enter the master public key (xpub) of your cosigner."
@@ -1294,8 +1294,8 @@ msgid "Please report any bugs as issues on github:<br/>"
 msgstr "Silakan laporkan apapun bug sebagai isu di github:<br/>"
 
 #: gui/qt/main_window.py:2736
-msgid "Please restart Electrum to activate the new GUI settings"
-msgstr "Harap hidupkan ulang Electrum untuk mengaktifkan pengaturan antar muka yang baru"
+msgid "Please restart ElectrumG to activate the new GUI settings"
+msgstr "Harap hidupkan ulang ElectrumG untuk mengaktifkan pengaturan antar muka yang baru"
 
 #: gui/kivy/uix/dialogs/installwizard.py:778
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
@@ -1667,8 +1667,8 @@ msgid "The amount will be displayed in red if you do not have enough funds in yo
 msgstr "Jumlah akan ditampilkan dalam warna merah jika Anda tidak memiliki saldo yang cukup dalam dompet Anda."
 
 #: gui/qt/main_window.py:780
-msgid "The bitcoin address never expires and will always be part of this electrum wallet."
-msgstr "Alamat bitcoin tidak akan kadaluarsa dan akan selalu menjadi bagian dari dompet elektrum."
+msgid "The BitcoinGold address never expires and will always be part of this ElectrumG wallet."
+msgstr "Alamat BitcoinGold tidak akan kadaluarsa dan akan selalu menjadi bagian dari dompet elektrum."
 
 #: gui/qt/main_window.py:1009
 msgid "The description is not sent to the recipient of the funds. It is stored in your wallet file, and displayed in the 'History' tab."
@@ -1703,14 +1703,14 @@ msgstr "Masukan berikut tidak dapat di impor"
 
 #: gui/qt/installwizard.py:248
 #, python-format
-msgid "The format of your wallet '%s' must be upgraded for Electrum. This change will not be backward compatible"
-msgstr "Format dompet Anda '%s' harus ditingkatkan untuk Electrum. Perubahan ini tidak akan kompatibel dengan versi sebelumnya"
+msgid "The format of your wallet '%s' must be upgraded for ElectrumG. This change will not be backward compatible"
+msgstr "Format dompet Anda '%s' harus ditingkatkan untuk ElectrumG. Perubahan ini tidak akan kompatibel dengan versi sebelumnya"
 
 #: gui/qt/installwizard.py:235
 #, python-format
-msgid "The wallet '%s' contains multiple accounts, which are no longer supported in Electrum 2.7.\n\n"
+msgid "The wallet '%s' contains multiple accounts, which are no longer supported in ElectrumG 2.7.\n\n"
 "Do you want to split your wallet into multiple files?"
-msgstr "Dompet '%s' berisi beberapa akun, yang tidak lagi didukung di Electrum versi 2. 7.\n\n"
+msgstr "Dompet '%s' berisi beberapa akun, yang tidak lagi didukung di ElectrumG versi 2. 7.\n\n"
 "Apakah Anda ingin membagi dompet Anda menjadi beberapa file?"
 
 #: gui/qt/network_dialog.py:273
@@ -1742,8 +1742,8 @@ msgid "This may result in higher transactions fees."
 msgstr "Hal ini dapat mengakibatkan biaya transaksi yang lebih tinggi."
 
 #: gui/qt/main_window.py:375
-msgid "This means you will not be able to spend Bitcoins with it."
-msgstr "Ini artinya Anda tidak akan dapat menghabiskan Bitcoins dengan itu."
+msgid "This means you will not be able to spend BitcoinGold with it."
+msgstr "Ini artinya Anda tidak akan dapat menghabiskan BitcoinGold dengan itu."
 
 #: gui/qt/main_window.py:861
 msgid "This payment request will be signed."
@@ -1759,7 +1759,7 @@ msgstr "Transaksi ini belum disimpan. Tutup?"
 
 #: gui/qt/main_window.py:1345
 msgid "This transaction requires a higher fee, or it will not be propagated by the network"
-msgstr "Transaksi ini membutuhkan biaya kirim lebih banyak, atau transaksi ini tidak akan tersebar di jaringan Bitcoin"
+msgstr "Transaksi ini membutuhkan biaya kirim lebih banyak, atau transaksi ini tidak akan tersebar di jaringan BitcoinGold"
 
 #: gui/qt/main_window.py:1838
 msgid "This wallet has no seed"
@@ -1952,8 +1952,8 @@ msgstr "Perhatian: Alamat berikutnya tidak akan dikembalikan secara otomatis ket
 "Tetap ingin buat alamat baru?"
 
 #: gui/qt/seed_dialog.py:74
-msgid "We do not guarantee that BIP39 imports will always be supported in Electrum."
-msgstr "Kami tidak menjamin bahwa impor BIP39 akan selalu didukung oleh Elactrum."
+msgid "We do not guarantee that BIP39 imports will always be supported in ElectrumG."
+msgstr "Kami tidak menjamin bahwa impor BIP39 akan selalu didukung oleh ElectrumG."
 
 #: gui/qt/main_window.py:1921
 msgid "Wrong signature"
@@ -1964,16 +1964,16 @@ msgid "You are following branch"
 msgstr "Anda telah mengikuti cabang"
 
 #: gui/qt/__init__.py:145
-msgid "You are using Electrum in offline mode; restart Electrum if you want to get connected"
-msgstr "Anda menggunakan Electrum dalam mode offline; Muat ulang kembali jika Anda ingin tersambung"
+msgid "You are using ElectrumG in offline mode; restart ElectrumG if you want to get connected"
+msgstr "Anda menggunakan ElectrumG dalam mode offline; Muat ulang kembali jika Anda ingin tersambung"
 
 #: gui/qt/main_window.py:921
 msgid "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr "Anda menggunakan dompet non-deterministik, yang tidak dapat membuat alamat baru."
 
 #: gui/qt/main_window.py:998
-msgid "You may enter a Bitcoin address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a Bitcoin address)"
-msgstr "Anda dapat memasukan alamat Bitcoin, label dari daftar kontak (daftar penyelesaian akan diajukan), atau sebuah alias (alamat seperti E-mail yang meneruskan ke sebuah alamat Bitcoin)"
+msgid "You may enter a BitcoinGold address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a BitcoinGold address)"
+msgstr "Anda dapat memasukan alamat BitcoinGold, label dari daftar kontak (daftar penyelesaian akan diajukan), atau sebuah alias (alamat seperti E-mail yang meneruskan ke sebuah alamat BitcoinGold)"
 
 #: gui/qt/main_window.py:1608
 msgid "You may load a CSV file using the file icon."
@@ -1984,8 +1984,8 @@ msgid "Your accounts have been moved to"
 msgstr "Akun anda telah dipindahkan ke"
 
 #: gui/qt/password_dialog.py:175
-msgid "Your bitcoins are password protected. However, your wallet file is not encrypted."
-msgstr "Bitcoins Anda dilindungi oleh passworld. Namun, file dompet Anda tidak di enkripsi."
+msgid "Your BitcoinGold is password protected. However, your wallet file is not encrypted."
+msgstr "BitcoinGold Anda dilindungi oleh passworld. Namun, file dompet Anda tidak di enkripsi."
 
 #: plugins/labels/qt.py:53
 msgid "Your labels have been synchronised."

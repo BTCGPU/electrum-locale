@@ -1,1 +1,1 @@
-# electrum-locale
+# electrumg-locale
