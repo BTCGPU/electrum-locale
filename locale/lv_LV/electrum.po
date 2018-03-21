@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: electrum\n"
+"Project-Id-Version: electrumg"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 13:29+0000\n"
 "PO-Revision-Date: 2017-09-03 00:27-0400\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: electrum\n"
+"X-Crowdin-Project: electrumg"
 "X-Crowdin-Language: lv\n"
-"X-Crowdin-File: /electrum-client/messages.pot\n"
+"X-Crowdin-File: /electrumg-client/messages.pot\n"
 
 #: gui/qt/main_window.py:2516
 msgid " These settings affects the fields in the Send tab"
@@ -250,8 +250,8 @@ msgid "BIP39 seed"
 msgstr "BIP39 sēkla"
 
 #: gui/qt/seed_dialog.py:71
-msgid "BIP39 seeds can be imported in Electrum so that users can access funds locked in other wallets."
-msgstr "Electrum var importēt BIP39 sēklas, lai lietotāji varētu piekļūt citos maciņos piesaistītajiem līdzekļiem."
+msgid "BIP39 seeds can be imported in ElectrumG so that users can access funds locked in other wallets."
+msgstr "ElectrumG var importēt BIP39 sēklas, lai lietotāji varētu piekļūt citos maciņos piesaistītajiem līdzekļiem."
 
 #: gui/qt/installwizard.py:78 gui/qt/installwizard.py:111
 #: gui/qt/installwizard.py:112
@@ -272,20 +272,20 @@ msgid "Base unit of your wallet."
 msgstr "Maciņa pamata vienība."
 
 #: gui/qt/main_window.py:539
-msgid "Before reporting a bug, upgrade to the most recent version of Electrum (latest release or git HEAD), and include the version number in your report."
-msgstr "Pirms ziņot par problēmu, pārliecinieties vai izmantojat jaunāko Electrum versiju (jaunāko laidienu vai git HEAD), un iekļaujiet versijas numuru jūsu ziņojumā."
+msgid "Before reporting a bug, upgrade to the most recent version of ElectrumG (latest release or git HEAD), and include the version number in your report."
+msgstr "Pirms ziņot par problēmu, pārliecinieties vai izmantojat jaunāko ElectrumG versiju (jaunāko laidienu vai git HEAD), un iekļaujiet versijas numuru jūsu ziņojumā."
 
 #: gui/qt/main_window.py:1303
-msgid "Bitcoin Address is None"
-msgstr "Bitcoin adrese ir Nekas"
+msgid "BitcoinGold Address is None"
+msgstr "BitcoinGold adrese ir Nekas"
 
 #: gui/qt/main_window.py:749
-msgid "Bitcoin address where the payment should be received. Note that each payment request uses a different Bitcoin address."
-msgstr "Bitcoin adrese kurā ir jāsaņem maksājums. Piezīme, katrs maksājuma pieprasījums izmanto jaunu Bitcoin adresi."
+msgid "BitcoinGold address where the payment should be received. Note that each payment request uses a different BitcoinGold address."
+msgstr "BitcoinGold adrese kurā ir jāsaņem maksājums. Piezīme, katrs maksājuma pieprasījums izmanto jaunu BitcoinGold adresi."
 
 #: gui/qt/main_window.py:1045
-msgid "Bitcoin transactions are in general not free. A transaction fee is paid by the sender of the funds."
-msgstr "Bitcoin transakcijas nav bezmaksas. Transakcijas komisijas maksu maksā līdzekļu nosūtītājs."
+msgid "BitcoinGold transactions are in general not free. A transaction fee is paid by the sender of the funds."
+msgstr "BitcoinGold transakcijas nav bezmaksas. Transakcijas komisijas maksu maksā līdzekļu nosūtītājs."
 
 #: gui/qt/network_dialog.py:288
 msgid "Blockchain"
@@ -549,68 +549,68 @@ msgid "Edit fees manually"
 msgstr "Rediģēt komisijas maksu manuāli"
 
 #: gui/kivy/main_window.py:244
-msgid "Electrum App"
-msgstr "Electrum lietotne"
+msgid "ElectrumG App"
+msgstr "ElectrumG lietotne"
 
 #: gui/qt/main_window.py:2763
-msgid "Electrum Plugins"
-msgstr "Electrum spraudņi"
+msgid "ElectrumG Plugins"
+msgstr "ElectrumG spraudņi"
 
 #: gui/qt/installwizard.py:485
-msgid "Electrum communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let Electrum pick one at random.  However if you prefer feel free to select a server manually."
-msgstr "Electrum komunicē ar attālinātiem serveriem, lai saņemtu informāciju par transakcijām un adresēm. Visi serveri pilda vienu un to pašu funkciju, atšķiras tikai to aparatūra. Vairumā gadījumu pietiek ar automātisko nejauša servera izvēli, bet, ja vēlaties varat izvēlēties kādu noteiktu serveri arī manuāli."
+msgid "ElectrumG communicates with remote servers to get information about your transactions and addresses. The servers all fulfil the same purpose only differing in hardware. In most cases you simply want to let ElectrumG pick one at random.  However if you prefer feel free to select a server manually."
+msgstr "ElectrumG komunicē ar attālinātiem serveriem, lai saņemtu informāciju par transakcijām un adresēm. Visi serveri pilda vienu un to pašu funkciju, atšķiras tikai to aparatūra. Vairumā gadījumu pietiek ar automātisko nejauša servera izvēli, bet, ja vēlaties varat izvēlēties kādu noteiktu serveri arī manuāli."
 
 #: gui/qt/network_dialog.py:272
-msgid "Electrum connects to several nodes in order to download block headers and find out the longest blockchain."
-msgstr "Lai lejupielādētu bloku galvenes un atrastu garāko blokķēdi, Electrum savienojas ar vairākiem mezgliem."
+msgid "ElectrumG connects to several nodes in order to download block headers and find out the longest blockchain."
+msgstr "Lai lejupielādētu bloku galvenes un atrastu garāko blokķēdi, ElectrumG savienojas ar vairākiem mezgliem."
 
 #: gui/qt/installwizard.py:23
-msgid "Electrum is generating your addresses, please wait..."
-msgstr "Electrum ģenerē adreses, lūdzu, uzgaidiet..."
+msgid "ElectrumG is generating your addresses, please wait..."
+msgstr "ElectrumG ģenerē adreses, lūdzu, uzgaidiet..."
 
 #: gui/qt/main_window.py:492
-msgid "Electrum preferences"
-msgstr "Electrum iestatījumi"
+msgid "ElectrumG preferences"
+msgstr "ElectrumG iestatījumi"
 
 #: gui/qt/network_dialog.py:281
-msgid "Electrum sends your wallet addresses to a single server, in order to receive your transaction history."
-msgstr "Electrum nosūta jūsu maciņa adreses vienam serverim, lai saņemtu transakciju vēsturi."
+msgid "ElectrumG sends your wallet addresses to a single server, in order to receive your transaction history."
+msgstr "ElectrumG nosūta jūsu maciņa adreses vienam serverim, lai saņemtu transakciju vēsturi."
 
 #: gui/qt/installwizard.py:168
-msgid "Electrum wallet"
-msgstr "Electrum maciņš"
+msgid "ElectrumG wallet"
+msgstr "ElectrumG maciņš"
 
 #: gui/qt/main_window.py:401
-msgid "Electrum was unable to copy your wallet file to the specified location."
-msgstr "Electrum neizdevās iekopēt maciņa failu norādītajā atrašanās vietā."
+msgid "ElectrumG was unable to copy your wallet file to the specified location."
+msgstr "ElectrumG neizdevās iekopēt maciņa failu norādītajā atrašanās vietā."
 
 #: gui/qt/main_window.py:2206
-msgid "Electrum was unable to export your labels."
-msgstr "Electrum neizdevās eksportēt etiķetes."
+msgid "ElectrumG was unable to export your labels."
+msgstr "ElectrumG neizdevās eksportēt etiķetes."
 
 #: gui/qt/main_window.py:2193
-msgid "Electrum was unable to import your labels."
-msgstr "Electrum neizdevās importēt etiķetes."
+msgid "ElectrumG was unable to import your labels."
+msgstr "ElectrumG neizdevās importēt etiķetes."
 
 #: gui/qt/main_window.py:2067
-msgid "Electrum was unable to open your transaction file"
-msgstr "Electrum neizdevās atvērt transakcijas failu"
+msgid "ElectrumG was unable to open your transaction file"
+msgstr "ElectrumG neizdevās atvērt transakcijas failu"
 
 #: gui/qt/main_window.py:2032
-msgid "Electrum was unable to parse your transaction"
-msgstr "Electrum neizdevās izparsēt transakciju"
+msgid "ElectrumG was unable to parse your transaction"
+msgstr "ElectrumG neizdevās izparsēt transakciju"
 
 #: gui/qt/main_window.py:2158
-msgid "Electrum was unable to produce a private key-export."
-msgstr "Electrum neizdevās izveidot privātās atslēgas eksportu."
+msgid "ElectrumG was unable to produce a private key-export."
+msgstr "ElectrumG neizdevās izveidot privātās atslēgas eksportu."
 
 #: gui/qt/main_window.py:2230
-msgid "Electrum was unable to produce a transaction export."
-msgstr "Electrum neizdevās izveidot transakcijas eksportu."
+msgid "ElectrumG was unable to produce a transaction export."
+msgstr "ElectrumG neizdevās izveidot transakcijas eksportu."
 
 #: gui/qt/main_window.py:532
-msgid "Electrum's focus is speed, with low resource usage and simplifying Bitcoin. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin system.\n\n"
-msgstr "Electrum priekšrocība ir ātrums un neliels resursu patēriņš, tas padara Bitcoin lietošanu vienkāršu, jums vairs nav jāveic regulāra rezerves kopiju veidošana. Maciņu var vienkārši atjaunot no slepenas frāzes, kuru var iegaumēt vai pierakstīt uz papīra. Programmas palaišana ir tūlītēja, jo Electrum strādā savienojumā ar augstas veiktspējas serveriem kuri paveic komplicētākās Bitcoin sistēmas darbības.\n\n"
+msgid "ElectrumG's focus is speed, with low resource usage and simplifying BitcoinGold. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the BitcoinGold system.\n\n"
+msgstr "ElectrumG priekšrocība ir ātrums un neliels resursu patēriņš, tas padara BitcoinGold lietošanu vienkāršu, jums vairs nav jāveic regulāra rezerves kopiju veidošana. Maciņu var vienkārši atjaunot no slepenas frāzes, kuru var iegaumēt vai pierakstīt uz papīra. Programmas palaišana ir tūlītēja, jo ElectrumG strādā savienojumā ar augstas veiktspējas serveriem kuri paveic komplicētākās BitcoinGold sistēmas darbības.\n\n"
 
 #: gui/qt/main_window.py:2003
 msgid "Encrypt"
@@ -702,8 +702,8 @@ msgid "Error"
 msgstr "Kļūda"
 
 #: gui/qt/__init__.py:111
-msgid "Exit Electrum"
-msgstr "Iziet no Electrum"
+msgid "Exit ElectrumG"
+msgstr "Iziet no ElectrumG"
 
 #: gui/qt/transaction_dialog.py:199
 msgid "Expected confirmation time"
@@ -718,8 +718,8 @@ msgid "Expired"
 msgstr "Izbeidzies"
 
 #: gui/qt/main_window.py:779
-msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding Bitcoin addresses."
-msgstr "Pieprasījumi ar beigušos derīguma termiņu ir jāizdzēš pašrocīgi, lai atbrīvotu saistītās Bitcoin adreses."
+msgid "Expired requests have to be deleted manually from your list, in order to free the corresponding BitcoinGold addresses."
+msgstr "Pieprasījumi ar beigušos derīguma termiņu ir jāizdzēš pašrocīgi, lai atbrīvotu saistītās BitcoinGold adreses."
 
 #: gui/qt/main_window.py:1666 gui/qt/invoice_list.py:36
 msgid "Expires"
@@ -835,12 +835,12 @@ msgid "Identity"
 msgstr "Identitāte"
 
 #: gui/qt/network_dialog.py:296
-msgid "If auto-connect is enabled, Electrum will always use a server that is on the longest blockchain."
-msgstr "Ja automātiskā savienošanās ir aktivizēta, Electrum vienmēr izmantos garāko blokķēdi."
+msgid "If auto-connect is enabled, ElectrumG will always use a server that is on the longest blockchain."
+msgstr "Ja automātiskā savienošanās ir aktivizēta, ElectrumG vienmēr izmantos garāko blokķēdi."
 
 #: gui/qt/network_dialog.py:297
-msgid "If it is disabled, you have to choose a server you want to use. Electrum will warn you if your server is lagging."
-msgstr "Ja atslēgts, jums ir jāizvēlas serveris kuru vēlaties izmantot. Electrum brīdinās, ja jūsu serveris atpaliek."
+msgid "If it is disabled, you have to choose a server you want to use. ElectrumG will warn you if your server is lagging."
+msgstr "Ja atslēgts, jums ir jāizvēlas serveris kuru vēlaties izmantot. ElectrumG brīdinās, ja jūsu serveris atpaliek."
 
 #: gui/qt/main_window.py:2456
 msgid "If the fee is low"
@@ -880,8 +880,8 @@ msgid "Import private keys"
 msgstr "Importēt privātās atslēgas"
 
 #: gui/qt/seed_dialog.py:75
-msgid "In addition, Electrum does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
-msgstr "Turklāt, Electrum nepārbauda BIP39 sēklu kontrolsummu; pārliecinieties, ka ierakstāt savu sēklu pareizi."
+msgid "In addition, ElectrumG does not verify the checksum of BIP39 seeds; make sure you type your seed correctly."
+msgstr "Turklāt, ElectrumG nepārbauda BIP39 sēklu kontrolsummu; pārliecinieties, ka ierakstāt savu sēklu pareizi."
 
 #: gui/qt/main_window.py:2109
 msgid "In particular, DO NOT use 'redeem private key' services proposed by third parties."
@@ -932,8 +932,8 @@ msgid "Invalid Amount"
 msgstr "Nederīga summa"
 
 #: gui/qt/main_window.py:1306
-msgid "Invalid Bitcoin Address"
-msgstr "Nederīga Bitcoin adrese"
+msgid "Invalid BitcoinGold Address"
+msgstr "Nederīga BitcoinGold adrese"
 
 #: gui/qt/main_window.py:1286
 msgid "Invalid Lines found:"
@@ -944,8 +944,8 @@ msgid "Invalid PIN"
 msgstr "Nederīgs PIN"
 
 #: gui/qt/main_window.py:1513
-msgid "Invalid bitcoin URI:"
-msgstr "Nederīgs Bitcoin vietrādis:"
+msgid "Invalid BitcoinGold URI:"
+msgstr "Nederīgs BitcoinGold vietrādis:"
 
 #: gui/qt/main_window.py:1652
 msgid "Invoice"
@@ -988,8 +988,8 @@ msgid "Lookup transaction"
 msgstr "Apsekot transakciju"
 
 #: gui/qt/main_window.py:376
-msgid "Make sure you own the seed phrase or the private keys, before you request Bitcoins to be sent to this wallet."
-msgstr "Pārliecinieties, ka esat sēklas frāzes vai privātās atslēgas īpašnieks, pirms pieprasāt Bitcoin uz šo maciņu."
+msgid "Make sure you own the seed phrase or the private keys, before you request BitcoinGold to be sent to this wallet."
+msgstr "Pārliecinieties, ka esat sēklas frāzes vai privātās atslēgas īpašnieks, pirms pieprasāt BitcoinGold uz šo maciņu."
 
 #: gui/qt/installwizard.py:481 gui/kivy/uix/dialogs/installwizard.py:689
 #: gui/kivy/uix/dialogs/installwizard.py:693
@@ -1257,8 +1257,8 @@ msgid "Please enter a seed phrase or a master key (xpub or xprv):"
 msgstr "Lūdzu, ievadiet sēklas frāzi vai galveno atslēgu (xpub vai xprv):"
 
 #: gui/qt/installwizard.py:24
-msgid "Please enter a seed phrase, a master key, a list of Bitcoin addresses, or a list of private keys"
-msgstr "Lūdzu, ievadiet sēklas frāzi, galveno atslēgu, Bitcoin adrešu vai privāto atslēgu sarakstu"
+msgid "Please enter a seed phrase, a master key, a list of BitcoinGold addresses, or a list of private keys"
+msgstr "Lūdzu, ievadiet sēklas frāzi, galveno atslēgu, BitcoinGold adrešu vai privāto atslēgu sarakstu"
 
 #: gui/qt/installwizard.py:348
 msgid "Please enter the master public key (xpub) of your cosigner."
@@ -1294,8 +1294,8 @@ msgid "Please report any bugs as issues on github:<br/>"
 msgstr "Lūdzu, ziņojiet par kļūdām uz github:<br/>"
 
 #: gui/qt/main_window.py:2736
-msgid "Please restart Electrum to activate the new GUI settings"
-msgstr "Lūdzu, pārstartējiet Electrum, lai aktivizētu jaunos saskarnes iestatījumus"
+msgid "Please restart ElectrumG to activate the new GUI settings"
+msgstr "Lūdzu, pārstartējiet ElectrumG, lai aktivizētu jaunos saskarnes iestatījumus"
 
 #: gui/kivy/uix/dialogs/installwizard.py:778
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
@@ -1667,8 +1667,8 @@ msgid "The amount will be displayed in red if you do not have enough funds in yo
 msgstr "Ja maciņā nav pietiekami daudz līdzekļu, summa tiks rādīta sarkanā krāsā."
 
 #: gui/qt/main_window.py:780
-msgid "The bitcoin address never expires and will always be part of this electrum wallet."
-msgstr "Bitcoin adresei nav derīguma termiņa, tā vienmēr būs daļa no šī Electrum maciņa."
+msgid "The BitcoinGold address never expires and will always be part of this ElectrumG wallet."
+msgstr "BitcoinGold adresei nav derīguma termiņa, tā vienmēr būs daļa no šī ElectrumG maciņa."
 
 #: gui/qt/main_window.py:1009
 msgid "The description is not sent to the recipient of the funds. It is stored in your wallet file, and displayed in the 'History' tab."
@@ -1703,14 +1703,14 @@ msgstr "Šādus ievadus neizdevās importēt"
 
 #: gui/qt/installwizard.py:248
 #, python-format
-msgid "The format of your wallet '%s' must be upgraded for Electrum. This change will not be backward compatible"
+msgid "The format of your wallet '%s' must be upgraded for ElectrumG. This change will not be backward compatible"
 msgstr "Ir nepieciešams atjaunināt maciņa '%s' formātu. Šīs izmaiņa nebūs atpakaļ saderīga"
 
 #: gui/qt/installwizard.py:235
 #, python-format
-msgid "The wallet '%s' contains multiple accounts, which are no longer supported in Electrum 2.7.\n\n"
+msgid "The wallet '%s' contains multiple accounts, which are no longer supported in ElectrumG 2.7.\n\n"
 "Do you want to split your wallet into multiple files?"
-msgstr "Maciņš '%s' satur vairākus kontus, kuri netiek atbalstīti Electrum 2.7 versijā.\n\n"
+msgstr "Maciņš '%s' satur vairākus kontus, kuri netiek atbalstīti ElectrumG 2.7 versijā.\n\n"
 "Vai vēlaties sadalīt maciņu vairākos failos?"
 
 #: gui/qt/network_dialog.py:273
@@ -1742,8 +1742,8 @@ msgid "This may result in higher transactions fees."
 msgstr "Šī opcija var palielināt transakciju komisijas maksu."
 
 #: gui/qt/main_window.py:375
-msgid "This means you will not be able to spend Bitcoins with it."
-msgstr "Šis nozīmē, ka nevarēsiet iztērēt Bitcoin ar to."
+msgid "This means you will not be able to spend BitcoinGold with it."
+msgstr "Šis nozīmē, ka nevarēsiet iztērēt BitcoinGold ar to."
 
 #: gui/qt/main_window.py:861
 msgid "This payment request will be signed."
@@ -1952,8 +1952,8 @@ msgstr "Brīdinājums: Nākamā adrese netiks atgūta automātiski, ja atjaunosi
 "Izveidot tik un tā?"
 
 #: gui/qt/seed_dialog.py:74
-msgid "We do not guarantee that BIP39 imports will always be supported in Electrum."
-msgstr "Mēs negarantējam, ka Electrum vienmēr atbalstīs BIP39."
+msgid "We do not guarantee that BIP39 imports will always be supported in ElectrumG."
+msgstr "Mēs negarantējam, ka ElectrumG vienmēr atbalstīs BIP39."
 
 #: gui/qt/main_window.py:1921
 msgid "Wrong signature"
@@ -1964,16 +1964,16 @@ msgid "You are following branch"
 msgstr "Jūs sekojat zaram"
 
 #: gui/qt/__init__.py:145
-msgid "You are using Electrum in offline mode; restart Electrum if you want to get connected"
-msgstr "Jūs izmantojat Electrum nesaistē; pārstartējiet Electrum, ja vēlaties savienoties"
+msgid "You are using ElectrumG in offline mode; restart ElectrumG if you want to get connected"
+msgstr "Jūs izmantojat ElectrumG nesaistē; pārstartējiet ElectrumG, ja vēlaties savienoties"
 
 #: gui/qt/main_window.py:921
 msgid "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr "Jūs izmantojat maciņu kurš nav deterministisks un nevar izveidot jaunas adreses."
 
 #: gui/qt/main_window.py:998
-msgid "You may enter a Bitcoin address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a Bitcoin address)"
-msgstr "Jūs varat ievadīt Bitcoin adresi, etiķeti no kontaktu saraksta (sarakstu piedāvās automātiski pabeigt) vai aizstājvārdu (e-pastam līdzīgu adresi, kas pārsūtīs uz Bitcoin adresi)."
+msgid "You may enter a BitcoinGold address, a label from your list of contacts (a list of completions will be proposed), or an alias (email-like address that forwards to a BitcoinGold address)"
+msgstr "Jūs varat ievadīt BitcoinGold adresi, etiķeti no kontaktu saraksta (sarakstu piedāvās automātiski pabeigt) vai aizstājvārdu (e-pastam līdzīgu adresi, kas pārsūtīs uz BitcoinGold adresi)."
 
 #: gui/qt/main_window.py:1608
 msgid "You may load a CSV file using the file icon."
@@ -1984,8 +1984,8 @@ msgid "Your accounts have been moved to"
 msgstr "Jūsu konti tika pārvietoti uz"
 
 #: gui/qt/password_dialog.py:175
-msgid "Your bitcoins are password protected. However, your wallet file is not encrypted."
-msgstr "Jūsu Bitcoin ir aizsargāti ar paroli. Tomēr, jūsu maciņš nav šifrēts."
+msgid "Your BitcoinGold is password protected. However, your wallet file is not encrypted."
+msgstr "Jūsu BitcoinGold ir aizsargāti ar paroli. Tomēr, jūsu maciņš nav šifrēts."
 
 #: plugins/labels/qt.py:53
 msgid "Your labels have been synchronised."
