@@ -31,7 +31,7 @@ msgstr "&Sobre"
 
 #: gui/qt/main_window.py:146
 msgid "&Addresses"
-msgstr "&Endereço"
+msgstr "&Endereços"
 
 #: gui/qt/main_window.py:514
 msgid "&Documentation"
@@ -107,7 +107,7 @@ msgstr "&Novo/Restaurar"
 
 #: gui/qt/main_window.py:512
 msgid "&Official website"
-msgstr "&Website Oficial"
+msgstr "&Site Oficial"
 
 #: gui/qt/main_window.py:443
 msgid "&Open"
@@ -477,7 +477,7 @@ msgstr "Desencriptar"
 
 #: gui/qt/network_dialog.py:217
 msgid "Default Servers"
-msgstr "Servidores Padrão"
+msgstr "Servidor Padrão"
 
 #: gui/qt/main_window.py:1682 gui/qt/contact_list.py:79
 #: gui/qt/invoice_list.py:82 gui/qt/request_list.py:121
